@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-docker-ec2-app';
+  title = 'Dockerized Angular App Running on Amazon EC2 Service';
 }
